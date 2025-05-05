@@ -33,7 +33,7 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 **What it shows:** The distribution of popularity scores (e.g., number of votes) by genre and year. This allows for a visual comparison of how different genres have performed over time.
 
-![Distribucion de Calidad Percibida por Año y Genero](outputs/Distribucion_de_Calidad_Percibida_por_Año_y_Genero.png)
+![Distribucion de Calidad Percibida por Año y Genero](Proyecto_Cine/outputs/Distribucion_de_Calidad_Percibida_por_Año_y_Genero.png)
 
 **Insight:** Action and Animation genres show higher variation in popularity, while Drama shows more consistency.
 
