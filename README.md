@@ -33,43 +33,40 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 **What it shows:** The distribution of popularity scores (e.g., number of votes) by genre and year. This allows for a visual comparison of how different genres have performed over time.
 
-![Descripción de la imagen](foto.jpg)
+![Distribucion de Calidad Percibida por Año y Genero](outputs/Distribucion_de_Calidad_Percibida_por_Año_y_Genero.png)
 
 **Insight:** Action and Animation genres show higher variation in popularity, while Drama shows more consistency.
 
 ---
 
-### 📌 Perceived Quality by Genre (Average Ratings)
+### 📌 Popularidad vs Características Numéricas de Películas 
 
-**Visualization:** Boxplot of `avg_vote` grouped by genre
-
-**What it shows:** Highlights genres with higher average ratings.
-
-*Embed image here*
+![Descripción de la imagen](outputs/Popularidad_vs_Características_Numéricas_de_Películas.png)
 
 **Insight:** Documentaries and Dramas tend to receive the highest average votes, implying stronger perceived quality.
 
 ---
 
-### 📌 Popularity vs. Quality Comparison
+### 📌 Evolución_de_Generos_de_peliculas_Populares(2000-2025)
 
 **Visualization:** Scatter plot of votes vs. average_vote with regression line
 
 **What it shows:** Whether movies with high popularity are also perceived as high quality.
 
-*Embed image here*
+![Descripción de la imagen](outputs/Evolución_de_Generos_de_peliculas_Populares(2000-2025).png)
+
 
 **Insight:** A slight positive correlation indicates that popular movies often receive decent ratings, though outliers exist.
 
 ---
 
-### 📌 Movie Production Over Time
+### 📌 Peliculas mas votadas por año 
 
 **Metric:** Number of movies per decade
 
 **What it shows:** Trends in how the volume of film production has changed across time.
 
-*Embed image here*
+![Descripción de la imagen](outputs/Pelicula_mas_votadas_2020.png)
 
 **Insight:** Film production has significantly increased in the 2000s and beyond.
 
@@ -84,17 +81,13 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 ---
 
-## 🎨 Dashboard Layout (UX/UI)
+## 🎨 Dashboard Layout (Power Bi)
 
-The dashboard was prototyped in Figma with a clear layout for usability:
+The dashboard was prototyped in Power Bi
 
-- **Header:** Filters and title
-- **Sidebar:** Controls for selecting year/genre
-- **Main Section:** Visual insights and KPIs
-- **Footer:** Dataset information and credits
+![Descripción de la imagen](outputs/dashboard2.jpg)
 
-*Embed Figma dashboard image here*
-
+Download: https://drive.google.com/file/d/1_qJMMARvn7NGbaEIF2cHVzgecGDi8ReZ/view?usp=sharing
 ---
 
 ## 🛠️ Tools & Technologies
