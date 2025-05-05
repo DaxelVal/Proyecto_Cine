@@ -53,7 +53,7 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 **What it shows:** Whether movies with high popularity are also perceived as high quality.
 
-![Descripción de la imagen](outputs/Evolución_de_Generos_de_peliculas_Populares(2000-2025).png)
+![Evolución de Generos de Peliculas](https://i.imgur.com/9M18vkv.png)
 
 
 **Insight:** A slight positive correlation indicates that popular movies often receive decent ratings, though outliers exist.
