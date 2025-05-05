@@ -66,7 +66,7 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 **What it shows:** Trends in how the volume of film production has changed across time.
 
-![Descripción de la imagen](outputs/Pelicula_mas_votadas_2020.png)
+![Peliculas_votadas](https://i.imgur.com/vjZmTry.png)
 
 **Insight:** Film production has significantly increased in the 2000s and beyond.
 
@@ -85,7 +85,7 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 The dashboard was prototyped in Power Bi
 
-![Descripción de la imagen](outputs/dashboard2.jpg)
+![Descripción de la imagen](https://i.imgur.com/VAeCeIc.png)
 
 Download: https://drive.google.com/file/d/1_qJMMARvn7NGbaEIF2cHVzgecGDi8ReZ/view?usp=sharing
 ---
