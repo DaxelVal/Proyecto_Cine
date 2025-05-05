@@ -41,7 +41,7 @@ The dataset (`df_merged`) was merged and cleaned in Google Colab. Key transforma
 
 ### 📌 Popularidad vs Características Numéricas de Películas 
 
-![Popularidad](https://i.imgur.com/I0W2apu)
+![Popularidad](https://i.imgur.com/I0W2apu.png)
 
 **Insight:** Documentaries and Dramas tend to receive the highest average votes, implying stronger perceived quality.
 
